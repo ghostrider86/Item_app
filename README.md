@@ -1,12 +1,10 @@
 # item_app overview
-This time I made a game of Sudoku, With mutiple options for the player to choose from. Such as picking an easy or hard board, allowing them to save their game, and show possible solutions to the sudoku board. I hope that as I continue to practice using several languages that ill get a better grasp on devloping code and have experiance in several languages, which will help in my overall goal to become a excellent software engineer. This projects has the following charecteristics:
-The game asks the user to pick a board_file and then displays aa list of options such as edit board, display board, show possible values, save board, and quit. The game takes user input which for this game takes input from the keybored. 
-I also added a stretch challenges which is accesing a file, which in this programs case is the word file that the program uses as the board and can also save to update the board.
-I wrote this for the purpose of streatching myself and gain a deeper knowledge and appreciation to writing programs. 
+This time a made an app using Android studio, which is another first for me and as for any software engineer it is good to be well versed in many different languages and
+a good habit to open your mind to tring something new. So the app is rather simple, its a random number generator. As you open up the app it shows the main page explaining what it is, I made it for the purpose to persuade those who make purchases online to decide how many items they want to buy. When the user clicks the button it will lead them to another page which has an option to select how many numbers you want to go between randomly, up to 10. Then when they click the roll button it will display a random number beteen one and the number they selected. So whenver deciding how much you should splurge for online purchases you can leave it up to fate in how much you should buy.
 
 
 
-[Software explanation Video](https://youtu.be/F4a487dUlrg)
+[Software explanation Video](https://youtu.be/chFeUoGja84)
 
 
 # Development Environment
