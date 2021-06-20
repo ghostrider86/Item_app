@@ -17,7 +17,7 @@ Git / GitHib
 * [Git hub course overview](https://byui-cse.github.io/cse310-course/lesson01/01-prove.html)
 * [My repository](https://github.com/ghostrider86/sudoku_game/edit/main/README.md)
 * [How to code multiple screens in java](https://www.youtube.com/watch?v=bgIUdb-7Rqo)
-* [How to make an Kotlin app](https://www.youtube.com/watch?v=QQa6Pt9AtRE)
+* [How to make a Kotlin app](https://www.youtube.com/watch?v=QQa6Pt9AtRE)
 
 
 # Future Work
